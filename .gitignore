@@ -1,0 +1,5 @@
+.venv/
+graph/
+.ipynb_checkpoints
+model/
+Dataset/
