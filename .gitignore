@@ -3,3 +3,4 @@ graph/
 .ipynb_checkpoints
 model/
 Dataset/
+unet-bilstm-with-phase-and-magnitude (8).ipynb
